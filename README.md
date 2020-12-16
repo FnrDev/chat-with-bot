@@ -1,6 +1,6 @@
 # chat-with-bot Made by Fnr#9999
 
-<h1 align="center"><img src="./img/chat-with-bot.png" width="100px"> Chat with bot <img src="./img/chat-with-bot.png" width="100px"></h1>
+<h1 align="center"><img src="./img/chat-with-bot.png" width="300px"> Chat with bot</h1>
 
 - get started
 
