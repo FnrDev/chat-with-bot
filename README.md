@@ -1,6 +1,6 @@
 # chat-with-bot Made by Fnr#9999
 
-<h1 align="center"><img src="./img/chat-with-bot.png" width="30px"> Advanced Discord Music Bot <img src="./assets/Music.gif" width="30px"></h1>
+<h1 align="center"><img src="./img/chat-with-bot.png" width="30px"> Chat with bot <img src="./img/chat-with-bot.png" width="30px"></h1>
 
 - get started
 
