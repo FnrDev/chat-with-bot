@@ -5,7 +5,7 @@ const alexa = require('alexa-bot-api')
 const ai = new alexa('aw2plm')
 
 client.on('ready', () => {
-    console.log(`Logged in as ${client.user.tag}`)
+    console.log(`Logged in as "${client.user.tag}" with guilds: "${client.guilds.cache.size}"`)
 })
 
 client.on('message', message => {
